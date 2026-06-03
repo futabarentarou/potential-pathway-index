@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bannerPotential_Pathway_Index.png" alt="Potential Pathway Index Banner" width="100%">
+  <img src="assets/Potential_Pathway_Index.png" alt="Potential Pathway Index Banner" width="100%">
 </p>
 
 # # Potential Pathway Index
